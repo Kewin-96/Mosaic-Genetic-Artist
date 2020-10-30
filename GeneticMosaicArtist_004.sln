@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticMosaicArtist_004", "GeneticMosaicArtist_004\GeneticMosaicArtist_004.csproj", "{77ED0824-A648-40B8-9BC8-5A0404C27B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77ED0824-A648-40B8-9BC8-5A0404C27B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ED0824-A648-40B8-9BC8-5A0404C27B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ED0824-A648-40B8-9BC8-5A0404C27B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ED0824-A648-40B8-9BC8-5A0404C27B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6128E0BD-9904-4659-AFF4-6A36CB7F89EC}
+	EndGlobalSection
+EndGlobal
