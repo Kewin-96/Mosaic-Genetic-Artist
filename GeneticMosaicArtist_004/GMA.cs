@@ -18,7 +18,7 @@ namespace GeneticMosaicArtist_004
         public static int sideOfSquare = -1;
 
         //parametry PSO
-        public static int populationParticles = 100;
+        public static int populationParticles = 20;
         public static double PSO_c1 = 0.3;
         public static double PSO_c2 = 0.3;
         public static double PSO_w = 0.729;
