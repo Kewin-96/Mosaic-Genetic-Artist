@@ -11,3 +11,5 @@ Generated image consist of triangles. User chooses how many traingles has image.
 
 # Algorithm presentation
 https://youtu.be/p5V0CPa_qKU
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p5V0CPa_qKU/0.jpg)](https://www.youtube.com/watch?v=p5V0CPa_qKU)
